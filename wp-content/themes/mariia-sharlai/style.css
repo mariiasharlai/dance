@@ -1,0 +1,15 @@
+/*
+Theme Name: Mariia Sharlai
+Theme URI: https://dance.sharlai.com/
+Author: Mariia Sharlai
+Description: Custom theme for dance classes in Tampere. Covers the English homepage plus Mini Dance, Kids, and K-Pop. Not an Elementor theme. Do not put DanceDaily in the logo.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 6.8
+Requires PHP: 8.1
+Text Domain: mariia-sharlai
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* Styles load from assets/css/theme.css via functions.php. */
